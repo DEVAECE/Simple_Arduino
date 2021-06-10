@@ -1,1 +1,2 @@
 Automatic switching between High and low beam for headlight uses two sensor data (Ambient Light sensor, Humidity, Speed)
+Arduino Nano
